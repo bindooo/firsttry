@@ -31,7 +31,7 @@
 					<ul class="dropdown-menu">
 						<li><a href="standings_driver.jsp">Driver standings</a></li>
 						<li role="separator" class="divider"></li>
-						<li><a href="standings_team.jsp">Team standings</a></li>
+						<li><a href="standings_team.jsp">Constructor standings</a></li>
 					</ul></li>
 			</ul>
 		</div>
@@ -86,6 +86,15 @@
 				</div>
 			</div>
 		</div>
+		
+		<hr>
+		<footer>
+            <div class="row">
+                <div class="col-lg-12">
+                    <p>Bindics Gergely E67MYE &copy; Homework</p>
+                </div>
+            </div>
+        </footer>
 	</div>
 
 </body>

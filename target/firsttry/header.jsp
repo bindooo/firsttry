@@ -3,8 +3,11 @@
 <link rel="stylesheet" type="text/css" href="slider_eng/style.css" />
 <link rel="stylesheet" type="text/css" href="css/bootstrap.css"
 	id="stylesheet" />
+<link rel="stylesheet" type="text/css" href="css/StatisticsTable.css"
+	id="stylesheet" />
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script
+	src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="slider_eng/jquery.js"></script>
 
